@@ -1,0 +1,10 @@
+.git/
+.vs/
+bin/
+.gitignore
+.config
+/ManectTelegramBot/obj
+/ManectTelegramBot/obj
+ManectTelegramBot/ManectTelegramBot.csproj.user
+ManectTelegramBot/Properties/PublishProfiles/FTPProfile.pubxml
+ManectTelegramBot/Properties/PublishProfiles/FTPProfile.pubxml.user
